@@ -1,1 +1,1 @@
-echo "Hello Jenkins from Git!"
+echo "Hello Jenkins from Git! (this time from a different branch)"
